@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @PedroDevv
-- 👀 I’m interested in Rec Room/FNF/Lua/Scratch Coding
-- 🌱 I’m currently learning How to use Unity/ How To Make FNF Mods
-- 💞️ I’m looking to collaborate on ROBLOX
-- 📫 How to reach me Discord: RealPedro#1466
+- 👋 Hi, I’m @RealPedro
+- 👀 I’m interested in Rec Room/Python/Discord Development
+- 🌱 I’m currently finishing my process in learning unity
+- 💞️ I’m looking to make people smile
+- 📫 How to reach me? On Discord: @realpedro
 
 <!---
 PedroDevv/PedroDevv is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
